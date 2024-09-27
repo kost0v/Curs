@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Stud\\2 курс 2 семестр\\WebDev\\Итоговая\\Cursovaia\\coursework\\coursework\\wwwroot\\images\\Прописка.jpg",
+      "PackagePath": "staticwebassets\\images\\Прописка.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.coursework.props",
+      "PackagePath": "build\\coursework.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.coursework.props",
+      "PackagePath": "buildMultiTargeting\\coursework.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.coursework.props",
+      "PackagePath": "buildTransitive\\coursework.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.coursework.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

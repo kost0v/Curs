@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "G83zr99nZCQdyBTtRzdVp2IX9BeeW/qhDmatrd325kA=",
+  "Source": "coursework",
+  "BasePath": "_content/coursework",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "coursework\\wwwroot",
+      "Source": "coursework",
+      "ContentRoot": "E:\\Stud\\2 курс 2 семестр\\WebDev\\Итоговая\\Cursovaia\\coursework\\coursework\\wwwroot\\",
+      "BasePath": "_content/coursework",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Stud\\2 курс 2 семестр\\WebDev\\Итоговая\\Cursovaia\\coursework\\coursework\\wwwroot\\images\\Прописка.jpg",
+      "SourceId": "coursework",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Stud\\2 курс 2 семестр\\WebDev\\Итоговая\\Cursovaia\\coursework\\coursework\\wwwroot\\",
+      "BasePath": "_content/coursework",
+      "RelativePath": "images/Прописка.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Прописка.jpg"
+    }
+  ]
+}

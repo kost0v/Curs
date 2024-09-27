@@ -1,0 +1,174 @@
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.csproj.AssemblyReference.cache
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.AssemblyInfoInputs.cache
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.AssemblyInfo.cs
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.csproj.CoreCompileInputs.cache
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\appsettings.json
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\libman.json
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\coursework.exe
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\coursework.deps.json
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\coursework.runtimeconfig.json
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\coursework.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\coursework.pdb
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\obj\Debug\net8.0\staticwebassets\msbuild.coursework.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\obj\Debug\net8.0\staticwebassets\msbuild.build.coursework.props
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.coursework.props
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.coursework.props
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\obj\Debug\net8.0\scopedcss\bundle\coursework.styles.css
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.csproj.CopyComplete
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\obj\Debug\net8.0\refint\coursework.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.pdb
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.genruntimeconfig.cache
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\obj\Debug\net8.0\ref\coursework.dll
+C:\Users\mikha\Desktop\Cursovaia\coursework\coursework\bin\Debug\net8.0\coursework.staticwebassets.runtime.json
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\appsettings.Development.json
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\appsettings.json
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\libman.json
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\coursework.staticwebassets.runtime.json
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\coursework.exe
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\coursework.deps.json
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\coursework.runtimeconfig.json
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\coursework.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\coursework.pdb
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\Google.Protobuf.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\MySql.Data.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\MySqlConnector.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\ZstdSharp.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.csproj.AssemblyReference.cache
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.AssemblyInfoInputs.cache
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.AssemblyInfo.cs
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.csproj.CoreCompileInputs.cache
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.MvcApplicationPartsAssemblyInfo.cache
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\staticwebassets.build.json
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\staticwebassets.development.json
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\staticwebassets\msbuild.coursework.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\staticwebassets\msbuild.build.coursework.props
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.coursework.props
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.coursework.props
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\scopedcss\bundle\coursework.styles.css
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.csproj.Up2Date
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\refint\coursework.dll
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.pdb
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.genruntimeconfig.cache
+E:\Stud\Работы\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\ref\coursework.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\appsettings.Development.json
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\appsettings.json
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\libman.json
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\coursework.staticwebassets.runtime.json
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\coursework.exe
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\coursework.deps.json
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\coursework.runtimeconfig.json
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\coursework.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\coursework.pdb
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\Google.Protobuf.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\MySql.Data.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\MySqlConnector.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\ZstdSharp.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.csproj.AssemblyReference.cache
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.AssemblyInfoInputs.cache
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.AssemblyInfo.cs
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.csproj.CoreCompileInputs.cache
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.MvcApplicationPartsAssemblyInfo.cache
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\staticwebassets.build.json
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\staticwebassets.development.json
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\staticwebassets\msbuild.coursework.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\staticwebassets\msbuild.build.coursework.props
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.coursework.props
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.coursework.props
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\scopedcss\bundle\coursework.styles.css
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.csproj.Up2Date
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\refint\coursework.dll
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.pdb
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\coursework.genruntimeconfig.cache
+E:\Stud\2 курс 2 семестр\WebDev\Итоговая\Cursovaia\coursework\coursework\obj\Debug\net8.0\ref\coursework.dll
