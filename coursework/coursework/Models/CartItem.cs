@@ -21,5 +21,6 @@ namespace coursework.Models
         [Required]
         [Column("quantity")]
         public int Quantity { get; set; }
+
     }
 }

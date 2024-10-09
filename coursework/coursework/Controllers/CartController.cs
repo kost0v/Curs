@@ -137,28 +137,58 @@ namespace coursework.Controllers
                 .Where(ci => ci.CartId == cart.Id)
                 .ToListAsync();
 
+            if (!cartItems.Any())
+            {
+                return Ok(new { success = false, message = "Корзина пуста" });
+            }
+
+            decimal totalPrice = 0;
             foreach (var cartItem in cartItems)
             {
                 var item = await _context.Items.FindAsync(cartItem.ItemId);
                 if (item == null || item.Stock < cartItem.Quantity)
                 {
-                    return Ok(new { success = false, message = "Недостаточно товара на складе" });
+                    return Ok(new { success = false, message = $"Недостаточно товара {item?.Name ?? "Неизвестный товар"} на складе" });
                 }
+
+                totalPrice += item.Price * cartItem.Quantity;
             }
+
+            // Создание заказа
+            var order = new Order
+            {
+                UserId = userId,
+                TotalPrice = totalPrice,
+                Status = "обрабатывается",
+                OrderItems = new List<OrderItem>()
+            };
 
             foreach (var cartItem in cartItems)
             {
                 var item = await _context.Items.FindAsync(cartItem.ItemId);
                 if (item != null)
                 {
+                    // Уменьшаем количество товара на складе
                     item.Stock -= cartItem.Quantity;
+
+                    // Добавляем товар в заказ
+                    var orderItem = new OrderItem
+                    {
+                        ItemId = item.Id,
+                        Quantity = cartItem.Quantity,
+                        Price = item.Price
+                    };
+                    order.OrderItems.Add(orderItem);
                 }
             }
 
+            _context.Orders.Add(order);
+
+            // Очищаем корзину
             _context.CartItems.RemoveRange(cartItems);
             await _context.SaveChangesAsync();
 
-            return Ok(new { success = true, message = "Заказ успешно оформлен" });
+            return Ok(new { success = true, message = "Заказ успешно оформлен", orderId = order.Id });
         }
     }
 }

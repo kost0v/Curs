@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RTbCBZnxmGo=",
+  "dgSpecHash": "0pVyRClPTK8=",
   "success": true,
-  "projectFilePath": "E:\\Stud\\2 курс 2 семестр\\WebDev\\Итоговая\\Cursovaia\\coursework\\coursework\\coursework.csproj",
+  "projectFilePath": "E:\\Stud\\2 курс 2 семестр\\WebDev\\Итоговая\\Cursovaia\\Curs\\coursework\\coursework\\coursework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kosto\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\kosto\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",

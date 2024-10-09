@@ -29,5 +29,6 @@ namespace coursework.Models
         [Required]
         [Column("category_id")]
         public int CategoryId { get; set; }
+
     }
 }

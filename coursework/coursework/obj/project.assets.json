@@ -2536,11 +2536,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Stud\\2 курс 2 семестр\\WebDev\\Итоговая\\Cursovaia\\coursework\\coursework\\coursework.csproj",
+      "projectUniqueName": "E:\\Stud\\2 курс 2 семестр\\WebDev\\Итоговая\\Cursovaia\\Curs\\coursework\\coursework\\coursework.csproj",
       "projectName": "coursework",
-      "projectPath": "E:\\Stud\\2 курс 2 семестр\\WebDev\\Итоговая\\Cursovaia\\coursework\\coursework\\coursework.csproj",
+      "projectPath": "E:\\Stud\\2 курс 2 семестр\\WebDev\\Итоговая\\Cursovaia\\Curs\\coursework\\coursework\\coursework.csproj",
       "packagesPath": "C:\\Users\\kosto\\.nuget\\packages\\",
-      "outputPath": "E:\\Stud\\2 курс 2 семестр\\WebDev\\Итоговая\\Cursovaia\\coursework\\coursework\\obj\\",
+      "outputPath": "E:\\Stud\\2 курс 2 семестр\\WebDev\\Итоговая\\Cursovaia\\Curs\\coursework\\coursework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kosto\\AppData\\Roaming\\NuGet\\NuGet.Config",

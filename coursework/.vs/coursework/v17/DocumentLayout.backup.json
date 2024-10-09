@@ -1,70 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\",
+  "WorkspaceRootPath": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\Curs\\coursework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|e:\\stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\webdev\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\cursovaia\\coursework\\coursework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|solutionrelative:coursework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|e:\\stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\webdev\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\cursovaia\\curs\\coursework\\coursework\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|solutionrelative:coursework\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|e:\\stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\webdev\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\cursovaia\\coursework\\coursework\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|e:\\stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\webdev\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\cursovaia\\curs\\coursework\\coursework\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|solutionrelative:coursework\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|e:\\stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\webdev\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\cursovaia\\coursework\\coursework\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|solutionrelative:coursework\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|e:\\stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\webdev\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\cursovaia\\coursework\\coursework\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|solutionrelative:coursework\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|e:\\stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\webdev\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\cursovaia\\coursework\\coursework\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|e:\\stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\webdev\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\cursovaia\\curs\\coursework\\coursework\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|solutionrelative:coursework\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|e:\\stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\webdev\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\cursovaia\\coursework\\coursework\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|solutionrelative:coursework\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|e:\\stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\webdev\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\cursovaia\\coursework\\coursework\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|solutionrelative:coursework\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|e:\\stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\webdev\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\cursovaia\\coursework\\coursework\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|solutionrelative:coursework\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|e:\\stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\webdev\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\cursovaia\\coursework\\coursework\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|solutionrelative:coursework\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|e:\\stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\webdev\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\cursovaia\\coursework\\coursework\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|solutionrelative:coursework\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|e:\\stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\webdev\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\cursovaia\\coursework\\coursework\\models\\updateprofilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|solutionrelative:coursework\\models\\updateprofilemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|e:\\stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\webdev\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\cursovaia\\coursework\\coursework\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|solutionrelative:coursework\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|e:\\stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\webdev\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\cursovaia\\coursework\\coursework\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|e:\\stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\webdev\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\cursovaia\\curs\\coursework\\coursework\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|solutionrelative:coursework\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|e:\\stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\webdev\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\cursovaia\\coursework\\coursework\\controllers\\imageuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|solutionrelative:coursework\\controllers\\imageuploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|e:\\stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\webdev\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\cursovaia\\coursework\\coursework\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|e:\\stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\webdev\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\cursovaia\\curs\\coursework\\coursework\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|solutionrelative:coursework\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|e:\\stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\webdev\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\cursovaia\\coursework\\coursework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|solutionrelative:coursework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|e:\\stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\webdev\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\cursovaia\\curs\\coursework\\coursework\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|solutionrelative:coursework\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|e:\\stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\webdev\\\u0438\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\cursovaia\\curs\\coursework\\coursework\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D3BC08-BE9F-4987-AB2F-CC8138F67D86}|coursework\\coursework.csproj|solutionrelative:coursework\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -73,8 +37,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "DockedWidth": 215,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,197 +46,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RegisterModel.cs",
-              "DocumentMoniker": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Models\\RegisterModel.cs",
-              "RelativeDocumentMoniker": "coursework\\Models\\RegisterModel.cs",
-              "ToolTip": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Models\\RegisterModel.cs",
-              "RelativeToolTip": "coursework\\Models\\RegisterModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T10:22:56.783Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginModel.cs",
-              "DocumentMoniker": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Models\\LoginModel.cs",
-              "RelativeDocumentMoniker": "coursework\\Models\\LoginModel.cs",
-              "ToolTip": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Models\\LoginModel.cs",
-              "RelativeToolTip": "coursework\\Models\\LoginModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T10:22:56.886Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Item.cs",
-              "DocumentMoniker": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Models\\Item.cs",
-              "RelativeDocumentMoniker": "coursework\\Models\\Item.cs",
-              "ToolTip": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Models\\Item.cs",
-              "RelativeToolTip": "coursework\\Models\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\Curs\\coursework\\coursework\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "coursework\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\Curs\\coursework\\coursework\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "coursework\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T10:22:56.888Z"
+              "WhenOpened": "2024-10-09T00:31:20.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Category.cs",
-              "DocumentMoniker": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "coursework\\Models\\Category.cs",
-              "ToolTip": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Models\\Category.cs",
-              "RelativeToolTip": "coursework\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\Curs\\coursework\\coursework\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "coursework\\Controllers\\ItemsController.cs",
+              "ToolTip": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\Curs\\coursework\\coursework\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "coursework\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T10:22:56.889Z"
+              "WhenOpened": "2024-10-09T00:31:09.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\Curs\\coursework\\coursework\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "coursework\\Controllers\\OrdersController.cs",
+              "ToolTip": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\Curs\\coursework\\coursework\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "coursework\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:30:54.627Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "coursework\\Models\\CartItem.cs",
-              "ToolTip": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Models\\CartItem.cs",
-              "RelativeToolTip": "coursework\\Models\\CartItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\Curs\\coursework\\coursework\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "coursework\\Models\\Order.cs",
+              "ToolTip": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\Curs\\coursework\\coursework\\Models\\Order.cs",
+              "RelativeToolTip": "coursework\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T10:22:56.891Z"
+              "WhenOpened": "2024-10-09T00:29:35.828Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Models\\Cart.cs",
-              "RelativeDocumentMoniker": "coursework\\Models\\Cart.cs",
-              "ToolTip": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Models\\Cart.cs",
-              "RelativeToolTip": "coursework\\Models\\Cart.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\Curs\\coursework\\coursework\\ShopContext.cs",
+              "RelativeDocumentMoniker": "coursework\\ShopContext.cs",
+              "ToolTip": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\Curs\\coursework\\coursework\\ShopContext.cs",
+              "RelativeToolTip": "coursework\\ShopContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T10:22:56.893Z"
+              "WhenOpened": "2024-10-09T00:29:22.184Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CartController.cs",
-              "DocumentMoniker": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Controllers\\CartController.cs",
+              "DocumentMoniker": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\Curs\\coursework\\coursework\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "coursework\\Controllers\\CartController.cs",
-              "ToolTip": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Controllers\\CartController.cs",
+              "ToolTip": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\Curs\\coursework\\coursework\\Controllers\\CartController.cs",
               "RelativeToolTip": "coursework\\Controllers\\CartController.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAwwKQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAD4v2oAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T10:22:56.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T23:10:10.089Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UpdateProfileModel.cs",
-              "DocumentMoniker": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Models\\UpdateProfileModel.cs",
-              "RelativeDocumentMoniker": "coursework\\Models\\UpdateProfileModel.cs",
-              "ToolTip": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Models\\UpdateProfileModel.cs",
-              "RelativeToolTip": "coursework\\Models\\UpdateProfileModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\Curs\\coursework\\coursework\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "coursework\\Models\\OrderItem.cs",
+              "ToolTip": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\Curs\\coursework\\coursework\\Models\\OrderItem.cs",
+              "RelativeToolTip": "coursework\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T10:22:56.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Models\\User.cs",
-              "RelativeDocumentMoniker": "coursework\\Models\\User.cs",
-              "ToolTip": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Models\\User.cs",
-              "RelativeToolTip": "coursework\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T10:22:56.898Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Program.cs",
-              "RelativeDocumentMoniker": "coursework\\Program.cs",
-              "ToolTip": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Program.cs",
-              "RelativeToolTip": "coursework\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T10:22:56.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShopContext.cs",
-              "DocumentMoniker": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\ShopContext.cs",
-              "RelativeDocumentMoniker": "coursework\\ShopContext.cs",
-              "ToolTip": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\ShopContext.cs",
-              "RelativeToolTip": "coursework\\ShopContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T10:22:56.901Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "coursework\\Controllers\\CategoriesController.cs",
-              "ToolTip": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "coursework\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T10:22:56.903Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "coursework\\Controllers\\AccountController.cs",
-              "ToolTip": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "coursework\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T10:22:56.904Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ImageUploadController.cs",
-              "DocumentMoniker": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Controllers\\ImageUploadController.cs",
-              "RelativeDocumentMoniker": "coursework\\Controllers\\ImageUploadController.cs",
-              "ToolTip": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Controllers\\ImageUploadController.cs",
-              "RelativeToolTip": "coursework\\Controllers\\ImageUploadController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T10:22:56.905Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ItemsController.cs",
-              "DocumentMoniker": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Controllers\\ItemsController.cs",
-              "RelativeDocumentMoniker": "coursework\\Controllers\\ItemsController.cs",
-              "ToolTip": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\Controllers\\ItemsController.cs",
-              "RelativeToolTip": "coursework\\Controllers\\ItemsController.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAcwBgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T10:22:56.907Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\appsettings.json",
-              "RelativeDocumentMoniker": "coursework\\appsettings.json",
-              "ToolTip": "E:\\Stud\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\WebDev\\\u0418\u0442\u043E\u0433\u043E\u0432\u0430\u044F\\Cursovaia\\coursework\\coursework\\appsettings.json",
-              "RelativeToolTip": "coursework\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-04T10:22:56.908Z"
+              "WhenOpened": "2024-10-08T17:08:23.325Z"
             }
           ]
         }

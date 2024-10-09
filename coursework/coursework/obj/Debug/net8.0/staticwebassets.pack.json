@@ -1,8 +1,28 @@
 {
   "Files": [
     {
-      "Id": "E:\\Stud\\2 курс 2 семестр\\WebDev\\Итоговая\\Cursovaia\\coursework\\coursework\\wwwroot\\images\\Прописка.jpg",
+      "Id": "E:\\Stud\\2 курс 2 семестр\\WebDev\\Итоговая\\Cursovaia\\Curs\\coursework\\coursework\\wwwroot\\images\\Кофе 2.png",
+      "PackagePath": "staticwebassets\\images\\Кофе 2.png"
+    },
+    {
+      "Id": "E:\\Stud\\2 курс 2 семестр\\WebDev\\Итоговая\\Cursovaia\\Curs\\coursework\\coursework\\wwwroot\\images\\Кофе.png",
+      "PackagePath": "staticwebassets\\images\\Кофе.png"
+    },
+    {
+      "Id": "E:\\Stud\\2 курс 2 семестр\\WebDev\\Итоговая\\Cursovaia\\Curs\\coursework\\coursework\\wwwroot\\images\\Прописка.jpg",
       "PackagePath": "staticwebassets\\images\\Прописка.jpg"
+    },
+    {
+      "Id": "E:\\Stud\\2 курс 2 семестр\\WebDev\\Итоговая\\Cursovaia\\Curs\\coursework\\coursework\\wwwroot\\images\\фото.jpg",
+      "PackagePath": "staticwebassets\\images\\фото.jpg"
+    },
+    {
+      "Id": "E:\\Stud\\2 курс 2 семестр\\WebDev\\Итоговая\\Cursovaia\\Curs\\coursework\\coursework\\wwwroot\\images\\чай 1.png",
+      "PackagePath": "staticwebassets\\images\\чай 1.png"
+    },
+    {
+      "Id": "E:\\Stud\\2 курс 2 семестр\\WebDev\\Итоговая\\Cursovaia\\Curs\\coursework\\coursework\\wwwroot\\images\\чай 2.png",
+      "PackagePath": "staticwebassets\\images\\чай 2.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.coursework.props",
